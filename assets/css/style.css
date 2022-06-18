@@ -3,27 +3,28 @@
 .bg-pink-blush {background-color: #f3e3e3;}
 
 h1 {font-family: Raleway;
-    color: #134256;}
+    color: #134256;
+    letter-spacing: -2px;}
     
 h2 {font-family: Sacramento;
     letter-spacing: 1px;
     color: #134256;}
 
 #mainlogo {float: left;
-    font-size: 500%;
+    font-size: 5vw;
     margin-left: 20px;
     font-family: 'Raleway', sans-serif;;}
     
 #sublogo {float: left;
-    font-size: 200%;
+    font-size: 2.2vw;
     font-family: 'Sacramento', cursive;}
 
 #navigation {list-style-type: none;
     font-family: 'Joan', serif;
     color: #134256;
-    font-size: 125%;}
+    font-size: 1.5vw;}
 
-#navigation li {float:right;
+#navigation li {
 margin-right: 20px;}
 
 .active {border-bottom: 2px solid}
@@ -31,6 +32,8 @@ margin-right: 20px;}
 #navigation a {text-decoration: none;
     color: inherit;}
 
-#mainlogo, #sublogo, #navigation {line-height: 125px;}
+#mainlogo, #sublogo {line-height: 100px;}
 
 #navigation a:hover {border-bottom: 2px solid;}
+
+.navbar .navbar-toggler-icon {background-image: url("https://img.icons8.com/ios/50/undefined/menu-squared-2--v1.png");}
