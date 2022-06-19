@@ -2,22 +2,26 @@
 
 .bg-pink-blush {background-color: #f3e3e3;}
 
-h1 {font-family: Raleway;
-    color: #134256;
-    letter-spacing: -2px;}
-    
-h2 {font-family: Sacramento;
-    letter-spacing: 1px;
-    color: #134256;}
+body {font-family: 'Joan', serif;
+color: #134256;}
+
+h5 {font-family: 'Joan', serif;
+color: #134256;
+text-transform: uppercase;
+font-size: 1.3vw;}
 
 #mainlogo {float: left;
     font-size: 5vw;
     margin-left: 20px;
-    font-family: 'Raleway', sans-serif;;}
+    font-family: 'Raleway', sans-serif;
+    color: #134256;
+    letter-spacing: -2px;}
     
 #sublogo {float: left;
     font-size: 2.2vw;
-    font-family: 'Sacramento', cursive;}
+    font-family: 'Sacramento', cursive;
+    color: #134256;
+    letter-spacing: 1px;}
 
 #navigation {list-style-type: none;
     font-family: 'Joan', serif;
@@ -41,7 +45,7 @@ margin-right: 20px;}
 #footernav {list-style-type: none;
     font-family: 'Joan', serif;
     color: #134256;
-    font-size: 1vw;}
+    font-size: 1.1vw;}
 
 #footernav a {text-decoration: none;
 color: inherit;
@@ -54,3 +58,5 @@ margin-right:5px}
 #socialnav li {display:inline-block;}
 
 #footernav li {display: inline-block;}
+
+#contact {font-size: 1.1vw;}
