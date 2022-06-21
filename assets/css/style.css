@@ -63,7 +63,19 @@ margin-right:5px}
 
 .bg-peach {background-color: #fee4d7;}
 
-.heroimage {padding: 0;}
+#home-hero-img {background-image: url("../images/pexels-home-pinkjacket.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 1000px;
+width: 100%;}
+
+.homeherotext {position: absolute;
+top: 500px;
+left: 200px;
+width: 20%;
+background-color: rgba(241, 163, 176, 0.3);
+font-size: 2vw;}
 
 .bodytext {padding: 20px 50px;
 color:#134256;
