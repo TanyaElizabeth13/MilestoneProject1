@@ -110,4 +110,16 @@ margin-right:5px}
     justify-content: center;}
 
 #map {padding-top: 20px;
-padding-bottom: 30px;}
+    padding-bottom: 30px;}
+
+.form-button {text-align: center;
+display: block;
+margin: auto;}
+
+.contactform {padding: 25px 50px;
+margin: auto;
+width: auto;
+height: auto;
+background: white;
+border: 1px solid;
+}
