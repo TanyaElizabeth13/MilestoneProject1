@@ -11,8 +11,7 @@ color: #134256;}
 
 h5 {font-family: 'Joan', serif;
 color: #134256;
-text-transform: uppercase;
-font-size: 1.3vw;}
+text-transform: uppercase;}
 
 .bodytext {padding: 20px 50px;
     color:#134256;
@@ -36,8 +35,7 @@ font-size: 1.3vw;}
 
 #navigation {list-style-type: none;
     font-family: 'Joan', serif;
-    color: #134256;
-    font-size: 1.5vw;}
+    color: #134256;}
 
 #navigation li {
 margin-right: 20px;}
@@ -57,8 +55,7 @@ margin-right: 20px;}
 
 #footernav {list-style-type: none;
     font-family: 'Joan', serif;
-    color: #134256;
-    font-size: 1.1vw;}
+    color: #134256;}
 
 #footernav a {text-decoration: none;
 color: inherit;
@@ -71,8 +68,6 @@ margin-right:5px}
 #socialnav li {display:inline-block;}
 
 #footernav li {display: inline-block;}
-
-#contact {font-size: 1.1vw;}
 
 /* Home page */
 
@@ -87,8 +82,7 @@ width: 100%;}
 top: 500px;
 left: 200px;
 width: 20%;
-background-color: rgba(241, 163, 176, 0.3);
-font-size: 2vw;}
+background-color: rgba(241, 163, 176, 0.3);}
 
 /* About page */
 
