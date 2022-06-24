@@ -1,6 +1,10 @@
+/* Google font import */
 @import url('https://fonts.googleapis.com/css2?family=Joan&family=Raleway:wght@200;300;400;500&family=Sacramento&display=swap');
 
+/* General */
 .bg-pink-blush {background-color: #f3e3e3;}
+
+.bg-peach {background-color: #fee4d7;}
 
 body {font-family: 'Joan', serif;
 color: #134256;}
@@ -10,6 +14,13 @@ color: #134256;
 text-transform: uppercase;
 font-size: 1.3vw;}
 
+.bodytext {padding: 20px 50px;
+    color:#134256;
+    font-family: 'Joan', serif;}
+
+.bodyimage {padding: 20px 50px;}
+
+/* Header */
 #mainlogo {float: left;
     font-size: 5vw;
     margin-left: 20px;
@@ -42,6 +53,8 @@ margin-right: 20px;}
 
 .navbar .navbar-toggler-icon {background-image: url("https://img.icons8.com/ios/50/undefined/menu-squared-2--v1.png");}
 
+/* Footer */
+
 #footernav {list-style-type: none;
     font-family: 'Joan', serif;
     color: #134256;
@@ -61,7 +74,7 @@ margin-right:5px}
 
 #contact {font-size: 1.1vw;}
 
-.bg-peach {background-color: #fee4d7;}
+/* Home page */
 
 #home-hero-img {background-image: url("../images/pexels-home-pinkjacket.jpg");
 background-repeat: no-repeat;
@@ -77,8 +90,6 @@ width: 20%;
 background-color: rgba(241, 163, 176, 0.3);
 font-size: 2vw;}
 
-.bodytext {padding: 20px 50px;
-color:#134256;
-font-family: 'Joan', serif;}
+/* About page */
 
-.bodyimage {padding: 20px 50px;}
+/* Contact page */
