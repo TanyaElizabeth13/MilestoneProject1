@@ -19,6 +19,12 @@ text-transform: uppercase;}
 
 .bodyimage {padding: 20px 50px;}
 
+.herotext {
+    padding: 25px;
+    background-color: rgba(241, 163, 176, 0.3);
+    font-weight: bold;
+    border-radius: 15px;}
+
 /* Header */
 #mainlogo {float: left;
     font-size: 5vw;
@@ -71,18 +77,15 @@ margin-right:5px}
 
 /* Home page */
 
-#home-hero-img {background-image: url("../images/pexels-home-pinkjacket.jpg");
-background-repeat: no-repeat;
-background-position: center;
-background-size: cover;
-height: 1000px;
-width: 100%;}
+#home-hero-container {
+    display: flex;
+    background: url("/assets/images/pexels-home-pinkjacket.jpg") no-repeat center center;
+    background-size:cover;
+    height: 220vh;
+    max-height: 1000px;
+    align-items: center;
+    justify-content: center;}
 
-.homeherotext {position: absolute;
-top: 500px;
-left: 200px;
-width: 20%;
-background-color: rgba(241, 163, 176, 0.3);}
 
 /* About page */
 
