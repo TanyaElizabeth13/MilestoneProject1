@@ -91,11 +91,13 @@ The general colour scheme for the site is delicate, feminine, pastel tones.
 
 F3E3E3 and FEE4D7 are used as background colours across all pages. The first for the headers and footer, and the latter for the main body of the site. 
 
+134256 is used for the email alert background to stand out from the rest of the page.
+
 F1A3B0 is used as a background colour on the header text to help contrast it with the images.
 
 134256 is used for all font on the site. 
 
-FFFFFF (white) is used for the contact form. 
+FFFFFF (white) is used for the contact form, and for the alert text on the dark background. 
 
 
 #### Typography
