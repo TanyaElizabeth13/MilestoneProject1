@@ -72,7 +72,7 @@ As an owner of the site, I want the site content to be readable on all devices f
 ### 2 Design
 ---
 
-### Wireframes
+#### Wireframes
 
 Home page
 ![wireframehome](/assets/images/Home.png)  
@@ -85,7 +85,35 @@ Contact page
 
 #### Colours
 
+The general colour scheme for the site is delicate, feminine, pastel tones.
+
+![colourscheme](/assets/images/hex-colours.png)
+
+F3E3E3 and FEE4D7 are used as background colours across all pages. The first for the headers and footer, and the latter for the main body of the site. 
+
+F1A3B0 is used as a background colour on the header text to help contrast it with the images.
+
+134256 is used for all font on the site. 
+
+FFFFFF (white) is used for the contact form. 
+
+
 #### Typography
+
+All fonts are imported from Google fonts. 
+
+Raleway is used for the main logo.
+
+![ralewayexample](/assets/images/raleway-font.png)
+
+Sacramento is used for the sub-logo.
+
+![sacramentoexample](/assets/images/sacramento-font.png)
+
+Joan is used for all other text throughout the site.
+
+![joanexample](/assets/images/joan-font.png)
+
 
 #### Images
 
