@@ -25,6 +25,14 @@ text-transform: uppercase;}
     font-weight: bold;
     border-radius: 15px;}
 
+/*--Alert--*/
+
+.alert-custom {background-color: #134256;
+color: white;
+margin-bottom: 0;
+text-align: center;
+font-family: 'Joan', serif;}
+
 /* Header */
 #mainlogo {float: left;
     font-size: 5vw;
