@@ -25,6 +25,44 @@
 ---
 #### User Stories
 
+**First time users:**
+
+As a fist time user of the site, I want to be able to get information on the company and what they do.
+
+As a fist time user of the site, I want to learn how to contact the company.
+
+As a fist time user of the site, I want to find where the company is located.
+
+As a fist time user of the site, I want to navigate to the company’s social media.
+
+As a first time user of the site. I want to be able to navigate around the site easily.
+
+As a first time user of the site, I want the site to be attractive and professional looking. 
+
+As a first time user of the site, I want to know my contact message has sent correctly. 
+
+**Returning users:**
+
+As a returning user of the site, I want to be able to quickly find the location of the company, possibly while on the move.
+
+As a returning user of the site, I want to be able to quickly find the contact information of the company. 
+
+As a returning user of the site, I want to feel confident that I have chosen the correct company. 
+
+**Site owners:**
+
+As an owner of the site, I want to bring in new clients by advertising the company and showing what they do.
+
+As an owner of the site, I want to show the history of the company.
+
+As an owner of the site, I want to have contact details easily available for new and current clients. 
+
+As an owner of the site, I want to have the location of the company easily available for new and current clients.
+
+As an owner of the site, I want customers to be able to send a message to contact them back at a late date. 
+
+As an owner of the site, I want the site content to be readable on all devices for all customers. 
+
 
 #### Site structure
 
