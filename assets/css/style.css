@@ -90,19 +90,19 @@ margin-right:5px}
 
 #home-hero-container {
     display: flex;
-    background: url("/assets/images/index.pinkjacket.2.jpg") no-repeat center center;
+    background: url("../images/index.pinkjacket.2.jpg") no-repeat center center;
     background-size:cover;
     height: 100vh;
     max-height: 500px;
     align-items: center;
     justify-content: center;}
 
-
+    
 /* About page */
 
 #about-hero-container { 
     display: flex;
-    background: url("/assets/images/about.womensitting2.jpg") no-repeat center center;
+    background: url("../images/about.womensitting2.jpg") no-repeat center center;
     background-size:cover;
     height: 100vh;
     max-height: 500px;
@@ -113,7 +113,7 @@ margin-right:5px}
 
 #contact-hero-container { 
     display: flex;
-    background: url("/assets/images/contact.meeting2.jpg") no-repeat center center;
+    background: url("../images/contact.meeting2.jpg") no-repeat center center;
     background-size:cover;
     height: 100vh;
     max-height: 500px;
@@ -164,7 +164,7 @@ width: 80%;
 @media screen and (min-width: 600px) {
     #home-hero-container {
         display: flex;
-        background: url("/assets/images/index.pinkjacket.1.jpg") no-repeat center center;
+        background: url("../images/index.pinkjacket.1.jpg") no-repeat center center;
         background-size:cover;
         height: 120vh;
         max-height: 800px;
@@ -176,7 +176,7 @@ width: 80%;
 @media screen and (min-width: 1000px) {
     #home-hero-container {
         display: flex;
-        background: url("/assets/images/index.pinkjacket.1.jpg") no-repeat center center;
+        background: url("../images/index.pinkjacket.1.jpg") no-repeat center center;
         background-size:cover;
         height: 220vh;
         max-height: 1000px;
@@ -188,7 +188,7 @@ width: 80%;
 @media screen and (min-width: 600px) {
     #about-hero-container {
         display: flex;
-        background: url("/assets/images/about.womensitting1.jpg") no-repeat center center;
+        background: url("../images/about.womensitting1.jpg") no-repeat center center;
         background-size:cover;
         height: 120vh;
         max-height: 800px;
@@ -200,7 +200,7 @@ width: 80%;
 @media screen and (min-width: 1000px) {
     #about-hero-container {
         display: flex;
-        background: url("/assets/images/about.womensitting1.jpg") no-repeat center center;
+        background: url("../images/about.womensitting1.jpg") no-repeat center center;
         background-size:cover;
         height: 220vh;
         max-height: 1000px;
@@ -212,7 +212,7 @@ width: 80%;
 @media screen and (min-width: 600px) {
     #contact-hero-container {
         display: flex;
-        background: url("/assets/images/contact.meeting1.jpg") no-repeat center center;
+        background: url("../images/contact.meeting1.jpg") no-repeat center center;
         background-size:cover;
         height: 120vh;
         max-height: 800px;
@@ -224,7 +224,7 @@ width: 80%;
 @media screen and (min-width: 1000px) {
     #contact-hero-container {
         display: flex;
-        background: url("/assets/images/contact.meeting1.jpg") no-repeat center center;
+        background: url("../images/contact.meeting1.jpg") no-repeat center center;
         background-size:cover;
         height: 220vh;
         max-height: 1000px;
