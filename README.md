@@ -169,7 +169,11 @@ An alert bar and modal have also been added as the original idea was to have a p
 ### 3 Site limitations
 
 ---
+The site does have some limitations that are out of scope for this project.
 
+The forms on the site do not store any data as they would on a real-life project. Submitting information on forms is either sent to the code institute form dump, or links to a successful submission page. 
+
+Social media icons in the page footer do not take the user to real pages as this is a fictional company. 
 
 ---
 
