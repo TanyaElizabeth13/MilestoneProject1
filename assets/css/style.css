@@ -89,7 +89,7 @@ margin-right:5px}
 
 #home-hero-container {
     display: flex;
-    background: url("/assets/images/pexels-home-pinkjacket.jpg") no-repeat center center;
+    background: url("/assets/images/index.pinkjacket.1.jpg") no-repeat center center;
     background-size:cover;
     height: 220vh;
     max-height: 1000px;
@@ -101,7 +101,7 @@ margin-right:5px}
 
 #about-hero-container { 
     display: flex;
-    background: url("/assets/images/pexels-mikhail-nilov-8101638.jpg") no-repeat center center;
+    background: url("/assets/images/about.womensitting1.jpg") no-repeat center center;
     background-size:cover;
     height: 220vh;
     max-height: 1000px;
@@ -112,7 +112,7 @@ margin-right:5px}
 
 #contact-hero-container { 
     display: flex;
-    background: url("/assets/images/pexels-fauxels-contactusmeeting.jpg") no-repeat center center;
+    background: url("/assets/images/contact.meeting1.jpg") no-repeat center center;
     background-size:cover;
     height: 220vh;
     max-height: 1000px;
