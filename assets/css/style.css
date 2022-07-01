@@ -16,9 +16,10 @@ text-transform: uppercase;}
 .bodytext {padding: 20px 50px;
     color:#134256;
     font-family: 'Joan', serif;
-    }
+    margin: auto;}
 
 .bodyimage {padding: 20px 50px;
+    margin: auto;
 }
 
 .herotext {
