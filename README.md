@@ -146,6 +146,7 @@ Social media icons are sourced from Icons 8 also, they are part of the same icon
 
 ![socialicons](/assets/images/socialicons.jpg)
 
+---
 
 #### Design differences 
 
@@ -163,19 +164,11 @@ A new image was added to the about page to have it match the feel of the other p
 
 An alert bar and modal have also been added as the original idea was to have a popup upon entering the page, but this would not have been in line with marking criteria for this project. 
 
-
 ---
 
 ### 3 Site limitations
 
 ---
-
-The site does have some limitations that are out of scope for this project.
-
-The forms on the site do not store any data as they would on a real-life project. Submitting information on forms is either sent to the code institute form dump, or links to a successful submission page. 
-
-Social media icons in the page footer do not take the user to real pages as this is a fictional company. 
-
 
 
 ---
