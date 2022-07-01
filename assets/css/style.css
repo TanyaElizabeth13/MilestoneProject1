@@ -101,7 +101,7 @@ margin-right:5px}
 
 #about-hero-container { 
     display: flex;
-    background: url("/assets/images/pexels-john-diez-womanwalking.jpg") no-repeat center center;
+    background: url("/assets/images/pexels-mikhail-nilov-8101638.jpg") no-repeat center center;
     background-size:cover;
     height: 220vh;
     max-height: 1000px;
@@ -133,6 +133,8 @@ background: white;
 border: 1px solid;
 width: 80%;
 }
+
+/* Media queries */
 
 @media screen and (min-width: 768px) {
     .contactform {padding: 25px 50px;
