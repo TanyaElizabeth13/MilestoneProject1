@@ -135,6 +135,13 @@ border: 1px solid;
 width: 80%;
 }
 
+/* Success page*/
+
+.success-image {
+    margin: auto;
+    padding: 30px;
+}
+
 /* Media queries */
 
 @media screen and (min-width: 768px) {
@@ -224,4 +231,10 @@ width: 80%;
         align-items: center;
         justify-content: center;}
 
+}
+
+@media screen and (min-width: 600px) {
+    .success-image {
+    margin: auto;
+    padding: 100px 250px;}
 }
