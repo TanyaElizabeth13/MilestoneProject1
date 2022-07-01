@@ -9,7 +9,7 @@
     * Wireframes
     * Colours
     * Typography
-    * Images
+    * Imagery
     * Design differences
 3. [__Site limitations__](#3-site-limitations)
 4. [__Features__](#4-features)
@@ -117,9 +117,52 @@ Joan is used for all other text throughout the site.
 ![joanexample](/assets/images/joan-font.png)
 
 
-#### Images
+#### Imagery
+
+The site logo was created using basic CSS. This was a design choice to keep it nice and simple, and to not make the pages look too busy with all the other images and colours being used. 
+
+![sitelogo](/assets/images/logo.jpg)
+
+All images from the site are sourced form Pexels.com, a free to use stock photo site. 
+The three main site pages all contain a large hero image. 
+
+![heroimages](/assets/images/imagery1.png)
+
+These have been cropped and reuploaded to look better on smaller devices.
+
+![heroimagessmaller](/assets/images/imagery2.png)
+
+On all four pages of the site there is an image with a motivational message. 
+
+![contentimages](/assets/images/imagery3.png)
+
+All images fit with the theme of the site and help to promote the brand of the company. They also fit well together creating a standarised theme across the site. 
+
+The site icon in the browser tab is taken from Icons8 and is of a small female logo. Fitting with the site theme.
+
+![brownericon](/assets/images/sitetab.jpg) 
+
+Social media icons are sourced from Icons 8 also, they are part of the same icon pack, so they all fit together.
+
+![socialicons](/assets/images/socialicons.jpg)
+
 
 #### Design differences 
+
+There are a few differences to the original designs shown in the wireframes.
+
+There is now a solid header above the hero image, instead of on top like in the wireframes. This choice was made to make the site look cleaner and to have to navigation bar is not distracted by the background image. 
+
+The new success page, that the user is navigated to after submitting the contact form, was also not part of the original designs. This was added to confirm to users that they have submitted the form correctly and their information has been received. 
+
+Having the elements inside the footer as rows in the original designs was changed to columns instead. This made the footer smaller and made the pages more balanced with the header size. Contact information was also added to the footer to make finding it easier.
+
+The tagline element has been moved from the original location to a more central one to make the pages more symmetrical and match more with the new header location.
+
+A new image was added to the about page to have it match the feel of the other pages.
+
+An alert bar and modal have also been added as the original idea was to have a popup upon entering the page, but this would not have been in line with marking criteria for this project. 
+
 
 ---
 
@@ -127,6 +170,11 @@ Joan is used for all other text throughout the site.
 
 ---
 
+The site does have some limitations that are out of scope for this project.
+
+The forms on the site do not store any data as they would on a real-life project. Submitting information on forms is either sent to the code institute form dump, or links to a successful submission page. 
+
+Social media icons in the page footer do not take the user to real pages as this is a fictional company. 
 
 
 
