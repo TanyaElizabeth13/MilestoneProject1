@@ -15,9 +15,11 @@ text-transform: uppercase;}
 
 .bodytext {padding: 20px 50px;
     color:#134256;
-    font-family: 'Joan', serif;}
+    font-family: 'Joan', serif;
+    }
 
-.bodyimage {padding: 20px 50px;}
+.bodyimage {padding: 20px 50px;
+}
 
 .herotext {
     padding: 25px;
@@ -122,12 +124,30 @@ margin-right:5px}
 
 .form-button {text-align: center;
 display: block;
-margin: auto;}
+margin: auto;
+margin-top: 10px;}
 
 .contactform {padding: 25px 50px;
-margin: auto;
-width: auto;
-height: auto;
+    margin: auto;
 background: white;
 border: 1px solid;
+width: 80%;
 }
+
+@media screen and (min-width: 768px) {
+    .contactform {padding: 25px 50px;
+        margin: auto;
+        background: white;
+        border: 1px solid;
+        max-width: 80%; }
+    
+}
+
+@media screen and (min-width: 1000px) {
+    .contactform {padding: 25px 50px;
+    margin: auto;
+    background: white;
+    border: 1px solid;
+    max-width: 40%; }
+}
+
