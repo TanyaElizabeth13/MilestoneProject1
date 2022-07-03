@@ -74,6 +74,8 @@ The navigation menu will contain links to all other pages and will styled to sta
 
 The navigation menu will change to a hamburger menu on small screen sizes. 
 
+>As a first time user of the site. I want to be able to navigate around the site easily.
+
 All hero images will also have an overlaying tagline to instantly show what the company does.
 
 All pages will also contain a footer at the bottom of the page. This will contain: 
@@ -82,17 +84,27 @@ All pages will also contain a footer at the bottom of the page. This will contai
 
 - The company’s social media links 
 
+> As a fist time user of the site, I want to navigate to the company’s social media.
+
 - The copyright info of the site in small letters right at the bottom. 
 
 Above the footer on all pages there will also be a ‘back to top’ button to save users from manually scrolling back to the top of the page. 
 
 Several testimonials will be shown across the site to show how the company has benefited previous clients. Names for these will be randomly generated.  
 
+> As a returning user of the site, I want to feel confident that I have chosen the correct company.
+
 The bootstrap grid system and media queries will be used throughout the entire site to make sure the layout is responsive on all device sizes.
+
+> As an owner of the site, I want the site content to be readable on all devices for all customers.
 
 **Home page** 
 
 The home page will contain some introductory text about what the company does and what they offer to clients.
+
+> As a fist time user of the site, I want to be able to get information on the company and what they do.
+
+> As an owner of the site, I want to bring in new clients by advertising the company and showing what they do.
 
 There will also be an image with an inspirational message that fits in with the site design. 
 
@@ -100,13 +112,25 @@ There will also be an image with an inspirational message that fits in with the 
 
 The about page will contain a company history story with key points of the company’s past.
 
+> As an owner of the site, I want to show the history of the company.
+
 **Contact page**
 
 The contact page will contain a contact form so users can submit their details and be contacted by the company, the form will require name, phone, email, and postcode.
 
+> As a fist time user of the site, I want to learn how to contact the company.
+
+> As an owner of the site, I want customers to be able to send a message to contact them back at a late date.
+
 There will also be an image with an inspirational message to fit in with the site narrative.
- 
+
 Above the footer the contact page will include an embedded google map showing the location of the company’s head office. With embedded google maps you can click to open it in the google maps app as standard. 
+
+> As a fist time user of the site, I want to find where the company is located.
+
+> As a returning user of the site, I want to be able to quickly find the location of the company, possibly while on the move.
+
+> As an owner of the site, I want to have the location of the company easily available for new and current clients.
 
 ---
 
@@ -187,11 +211,12 @@ Social media icons are sourced from Icons 8 also, they are part of the same icon
 
 ![socialicons](/assets/images/socialicons.jpg)
 
+
 ---
 
 #### Design differences 
 
-There are a few differences to the original designs shown in the wireframes.
+There are a few differences to the original designs shown in the wireframes. These where added for either aesthetic reasons or to fulfill user stories. 
 
 There is now a solid header above the hero image, instead of on top like in the wireframes. This choice was made to make the site look cleaner and to make sure the navigation bar is not distracted by the background image. 
 
@@ -199,7 +224,17 @@ A new h3 title has been added to the home page to improve the layout.
 
 The new success page, that the user is navigated to after submitting the contact form, was also not part of the original designs. This was added to confirm to users that they have submitted the form correctly and their information has been received. 
 
-Having the elements inside the footer as rows in the original designs was changed to columns instead. This made the footer smaller and made the pages more balanced with the header size. Contact information was also added to the footer to make finding it easier.
+> As a first time user of the site, I want to know my contact message has sent correctly.
+
+Having the elements inside the footer as rows in the original designs was changed to columns instead. This made the footer smaller and made the pages more balanced with the header size. 
+
+Contact information was also added to the footer to make finding it easier.
+
+> As a fist time user of the site, I want to learn how to contact the company.
+
+> As a returning user of the site, I want to be able to quickly find the contact information of the company.
+
+> As an owner of the site, I want to have contact details easily available for new and current clients.
 
 The tagline element has been moved from the original location to a more central one to make the pages more symmetrical and match more with the new header location.
 
