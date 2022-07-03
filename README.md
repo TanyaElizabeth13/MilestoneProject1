@@ -383,6 +383,8 @@ Namelix.com  - The site used to generate fake company names used for testimonial
 
 Canva – The site used to make image collages for README.md
 
+Microsoft Word - The software used to write README.md, mainly used for spell check purposes. 
+
 ---
 ### 6 Testing
 ---
