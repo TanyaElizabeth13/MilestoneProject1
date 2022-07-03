@@ -154,6 +154,8 @@ There are a few differences to the original designs shown in the wireframes.
 
 There is now a solid header above the hero image, instead of on top like in the wireframes. This choice was made to make the site look cleaner and to make sure the navigation bar is not distracted by the background image. 
 
+A new h3 title has been added to the home page to improve the layout.
+
 The new success page, that the user is navigated to after submitting the contact form, was also not part of the original designs. This was added to confirm to users that they have submitted the form correctly and their information has been received. 
 
 Having the elements inside the footer as rows in the original designs was changed to columns instead. This made the footer smaller and made the pages more balanced with the header size. Contact information was also added to the footer to make finding it easier.
