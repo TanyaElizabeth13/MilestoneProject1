@@ -262,7 +262,85 @@ Social media icons in the page footer do not take the user to real pages as this
 
 #### Existing
 
+**Email alert**
+
+At the top of all pages there is an alert bar suggesting the user sign up to an email list. It contains a ‘click here’ button that opens the email sign-up modal. 
+
+![emailalert](assets/images/emailalert.jpg)
+
+**Email modal**
+
+An email sign up modal pops up after clicking the ‘click here’ button. This allows the user to submit their details to join the company mailing list. If they change their mind, there is an exit button on the top right of the modal. 
+
+![emailmodal](assets/images/emailmodal.jpg)
+
+**Header**
+
+Each page has the same header that stays at the top of the page (non-sticky). It contains the sites main logo, sub logo, and the main navigation bar. 
+
+![largeheader](assets/images/header.jpg)
+
+On medium screens the sub logo disappears to make the header look less crowded.
+
+![mediumheader](assets/images/header2.jpg)
+
+**Hamburger nav menu**
+
+On small screens the navigation bar collapses into a hamburger menu making it look cleaner. 
+
+![hamburgermenu](assets/images/hamburgerheader.jpg)
+
+**Contact form**
+
+The contact page contains a simple form. It consists of full name, email address, phone number, and post code. This is enough information for the company to get in touch with the user at a later date. 
+
+![contactform](assets/images/contactform.jpg)
+
+**Success page**
+
+Submitting the form of the contact page take users to a success page saying thank you and letting the user know that the form has been submitted. This is a full page with the same header and footer as the other pages so users can easily navigate through the site.
+
+![successpage](assets/images/thankyou.jpg)
+
+**Embedded map**
+
+The contact page also contains an embedded Google map. As standard with Google embedded maps, the map is interactive and is the user clicks the ‘view larger map’ button it will take them to either the desktop version of the full map, or the Google maps apps. 
+
+![googlemap](assets/images/googlemap.jpg)
+
+**Back to top button**
+
+All pages contain a ‘Back to top’ button above the footer, so users can quickly return to the top of the site without scrolling. This shows on all screen sizes. 
+
+![backtotopbutton](assets/images/backtotopbtn.jpg)
+
+**Footer**
+
+All pages have the same footer that stays at the bottom of the page (non-sticky). It contains a quick links section for users to quickly navigate to other parts of the site, the company contact details, and icons with links to the company’s social media sites. 
+
+![footer](assets/images/footer.jpg)
+
+**Social media links**
+
+Within the footer on each page there are four icons linking to the company’s social media accounts. These are: Facebook, Instagram, Twitter, and Tiktok. 
+
+![socialicons](assets/images/socialfooter.jpg)
+
 #### Future
+
+As this project is focused on HTML 5 and CSS 3, it leaves a lot of room for possible future features that can be implemented with more advanced technologies. Also, the scope of this project was only to cover three pages, so in a real life project a lot more features would likely be added to a site of this type. 
+
+**Client login**
+
+In future a client login section could be added. This would be an area on the site for current clients to communicate with the company, upload and receive documents, and make appointments with a live booking system. 
+
+**Live social media**
+
+A feed showing the company’s live social media sites could also be added to direct the user to these sites, without them having to click through the links on the page. This could be done using JavaScript or iframe embedded code. 
+
+**Blog section**
+
+A blog section could be added as a way for the company to keep clients updated on the work they are doing. This could be done through a directory of text pages or by using something such as WordPress. 
 
 ---
 
