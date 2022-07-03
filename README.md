@@ -137,6 +137,8 @@ Above the footer the contact page will include an embedded google map showing th
 ### 2 Design
 ---
 
+> As a first time user of the site, I want the site to be attractive and professional looking. 
+
 #### Wireframes
 
 Home page
