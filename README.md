@@ -189,6 +189,42 @@ Social media icons in the page footer do not take the user to real pages as this
 ### 5 Technologies used
 ---
 
+HTML 5 – The coding language used to structure the site and its content. 
+
+CSS 3 – The coding language used to style the site. 
+
+Bootstrap v4.6.1 – The framework used to provide styling and the grid layout. 
+
+Balsamiq – The software used to create wireframes during the design process. 
+
+Google Fonts – Open-source font service used to import all custom fonts on the site. 
+
+Gitpod – The IDE used to write code and commit to Git. 
+
+Git – The software used to manage version control and push to Github. 
+
+Github – The repository site used to store the project pushed from Gitpod, also used to deploy the site via Github Pages. 
+
+TinyJPG – The website used to compress image sizes to reduce storage used, creating faster loading speeds. 
+
+Chrome DevTools – The built-in developer tools used throughout development to check responsivity on all screen sizes. 
+
+WAVE – The accessibility evaluation tool used throughout to check all site aspects are fully accessible to users with disabilities. 
+
+Lighthouse – The developer tool use to test site performance. 
+
+W3 Validator – The validator used to check all pages for syntax errors.
+
+Jigsaw validator – The validator used to check all pages for CSS syntax errors. 
+
+Technisini – The mockup generator site used to create mockup images in README.md. 
+
+Behind the name.com – The site used to generate random names for about page and testimonials.  
+
+Namelix.com  - The site used to generate fake company names used for testimonials.  
+
+Canva – The site used to make image collages for README.md
+
 ---
 ### 6 Testing
 ---
