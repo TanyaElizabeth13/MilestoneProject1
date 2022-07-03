@@ -66,6 +66,47 @@ As an owner of the site, I want the site content to be readable on all devices f
 
 #### Site structure
 
+**All pages**
+
+All pages will have a large hero image at the top with a navigation menu in the top right.
+
+The navigation menu will contain links to all other pages and will styled to stand out. 
+
+The navigation menu will change to a hamburger menu on small screen sizes. 
+
+All hero images will also have an overlaying tagline to instantly show what the company does.
+
+All pages will also contain a footer at the bottom of the page. This will contain: 
+
+- Quick links to other pages so users don’t have to scroll back up manually.
+
+- The company’s social media links 
+
+- The copyright info of the site in small letters right at the bottom. 
+
+Above the footer on all pages there will also be a ‘back to top’ button to save users from manually scrolling back to the top of the page. 
+
+Several testimonials will be shown across the site to show how the company has benefited previous clients. Names for these will be randomly generated.  
+
+The bootstrap grid system and media queries will be used throughout the entire site to make sure the layout is responsive on all device sizes.
+
+**Home page** 
+
+The home page will contain some introductory text about what the company does and what they offer to clients.
+
+There will also be an image with an inspirational message that fits in with the site design. 
+
+**About page** 
+
+The about page will contain a company history story with key points of the company’s past.
+
+**Contact page**
+
+The contact page will contain a contact form so users can submit their details and be contacted by the company, the form will require name, phone, email, and postcode.
+
+There will also be an image with an inspirational message to fit in with the site narrative.
+ 
+Above the footer the contact page will include an embedded google map showing the location of the company’s head office. With embedded google maps you can click to open it in the google maps app as standard. 
 
 ---
 
