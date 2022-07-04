@@ -439,3 +439,76 @@ The project was then deployed using Github Pages by doing the following steps:
 ---
 ### 8 Credits
 ---
+
+**Code**
+
+[This](https://www.w3.org/WAI/tutorials/forms/labels/#note-on-hiding-elements) visually hidden class was used to hide the form label in the email signup modal so it would only be available to screen readers, and it works great. 
+
+    .visuallyhidden {
+        border: 0;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+    }
+
+
+**Media**
+
+All images are open source and taken from Pexels.com 
+
+<details>
+<summary>Full list of images used</summary>
+
+[Home hero image](https://www.pexels.com/photo/woman-in-pink-cardigan-and-white-shirt-leaning-on-the-wall-975657/)
+
+[About hero image](https://www.pexels.com/photo/female-colleagues-sitting-beside-each-othre-8101638/)
+
+[Contact hero image](https://www.pexels.com/photo/photo-of-people-having-meeting-3183186/)
+
+[Home inspo image](https://www.pexels.com/photo/a-motivational-message-5238584/)
+
+[About inspo image](https://www.pexels.com/photo/dirty-pattern-texture-abstract-5244123/)
+
+[Contact inspo image](https://www.pexels.com/photo/quote-on-a-wall-5246429/)
+
+[Success inspo image](https://www.pexels.com/photo/illuminated-qoute-board-2255441/)
+</details>
+
+All icons used are open source and taken from Icons8.com
+
+<details>
+<summary>Full list of icons used</summary>
+
+[Browser icon](https://icons8.com/icon/7696/female)
+
+[Facebook icon](https://icons8.com/icon/kQzCK4emnaD2/facebook)
+
+[Instagram icon](https://icons8.com/icon/RhYNENh5cxlS/instagram)
+
+[Twitter icon](https://icons8.com/icon/rQfEoE6vlrLk/twitter)
+
+[Tiktok icon](https://icons8.com/icon/K6KK5ISTAWwE/tiktok)
+</details>
+
+
+**Content**
+
+All site copy was written by Tanya Allen. 
+
+All company names and people names were made using random name generators.
+
+The fictitious company name ‘The Women’s Coaching Collective’ was thought up by Briony Sommers.  
+
+**Acknowledgements**
+
+A big thank you to my Code Institute mentor Daisy for her honest feedback and helpful tips.
+
+Thank you to the slack community for answering questions, not just mine but others which made searching for solutions easier.  
+
+Thank you to Irish Becky from the peer review slack channel for her feedback.
+
+[W3Schools](https://www.w3schools.com/) and [Stack overflow](https://stackoverflow.com/) where consulted regularly throughout the project to get a better understanding of good coding practices. 
