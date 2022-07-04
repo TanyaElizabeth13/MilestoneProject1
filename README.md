@@ -262,6 +262,8 @@ A new image was added to the about page to have it match the feel of the other p
 
 An alert bar and modal have also been added as the original idea was to have a popup upon entering the page, but this would not have been in line with marking criteria for this project. 
 
+The layout of some page elements differs slightly from the original wireframes. This is due to the elements being different sizes once all the correct text and images where added. 
+
 ---
 
 ### 3 Site limitations
