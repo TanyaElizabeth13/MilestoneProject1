@@ -59,7 +59,7 @@ As an owner of the site, I want to have contact details easily available for new
 
 As an owner of the site, I want to have the location of the company easily available for new and current clients.
 
-As an owner of the site, I want customers to be able to send a message to contact them back at a late date. 
+As an owner of the site, I want customers to be able to send a message to contact them back at a later date. 
 
 As an owner of the site, I want the site content to be readable on all devices for all customers. 
 
@@ -120,7 +120,7 @@ The contact page will contain a contact form so users can submit their details a
 
 > As a fist time user of the site, I want to learn how to contact the company.
 
-> As an owner of the site, I want customers to be able to send a message to contact them back at a late date.
+> As an owner of the site, I want customers to be able to send a message to contact them back at a later date.
 
 There will also be an image with an inspirational message to fit in with the site narrative.
 
