@@ -1,6 +1,24 @@
 # Milestone project 1 
 # Tanya Allen
 ## The Women's Coaching Collective
+
+![homemockup](assets/images/Homemockup.jpg)
+
+<details>
+<summary>Other page mockups</summary>
+
+![aboutmockup](assets/images/aboutmockup.jpg)
+
+
+![contactmockup](assets/images/contactmockup.jpg)
+
+
+![successmockup](assets/images/successmockup.jpg)
+</details>
+
+[Click for live site](https://tanyaelizabeth13.github.io/Milestoneproject1/)
+
+
 ### Table of content:
 1. [__User experience__](#1-ux)
     * User stories
@@ -375,7 +393,7 @@ W3 Validator – The validator used to check all pages for syntax errors.
 
 Jigsaw validator – The validator used to check all pages for CSS syntax errors. 
 
-Technisini – The mockup generator site used to create mockup images in README.md. 
+Technsini – The mockup generator site used to create mockup images in README.md. 
 
 Behind the name.com – The site used to generate random names for about page and testimonials.  
 
