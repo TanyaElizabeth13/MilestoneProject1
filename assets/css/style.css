@@ -135,6 +135,8 @@ border: 1px solid;
 width: 80%;
 }
 
+/* Visually hidden code snippet used to hide form label taken from W3 tutorial (https://www.w3.org/WAI/tutorials/forms/labels/#note-on-hiding-elements) */
+
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
