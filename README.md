@@ -389,6 +389,20 @@ Microsoft Word - The software used to write README.md, mainly used for spell che
 ### 6 Testing
 ---
 
+The strategy for testing was to cover the areas of responsivity testing, features testing, accessibility testing, performance testing, and validator testing. 
+
+Click for full testing results:
+
+[xlsx file](assets/testing/Testing%20MP1.xlsx)
+
+There are two fails in the features section (test no's F3 and F10). These are both due to data storing from forms being out of scope for this project.
+
+Accessibility testing on all pages still shows an alert (test no's A2, A4, A6, and A8). This is due to a ‘redundant link’ in the nav bar taking you to the same URL. It is ok to keep this alert as to not have a navigation bar with empty links. 
+
+CSS validator testing is still showing 1 warning on all pages because of the hidden form label in the email modal (test no V8). Is warning is ok as the code is a snippet taken from a tutorial and I do not want to make changes to this code snippet as it works well. 
+
+HTML validator is also still showing 1 warning on all pages (test no's V2, V4, and V6). This is due to section classes not using a heading. This is accepted as it is not an error and sections make the code easier to organise. 
+
 ---
 ### 7 Deployment
 ---
