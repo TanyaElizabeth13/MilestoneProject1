@@ -403,6 +403,8 @@ Canva – The site used to make image collages for README.md
 
 Microsoft Word - The software used to write README.md, mainly used for spell check purposes. 
 
+Microsoft Excel - The software used to make the testing spreadsheet.
+
 ---
 ### 6 Testing
 ---
