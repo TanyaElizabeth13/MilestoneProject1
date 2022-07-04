@@ -425,6 +425,17 @@ HTML validator is also still showing 1 warning on all pages (test no's V2, V4, a
 ### 7 Deployment
 ---
 
+This project was initially created in Github using the Code Institute’s [full template](https://github.com/Code-Institute-Org/gitpod-full-template) 
+
+The project was then deployed using Github Pages by doing the following steps:
+
+-	Open [repository](https://github.com/TanyaElizabeth13/Milestoneproject1)
+-	Click Settings
+-	Click Pages on the left-hand side
+-	In Source select main branch and root
+-	Click save
+-	Click the link to the live site
+
 ---
 ### 8 Credits
 ---
