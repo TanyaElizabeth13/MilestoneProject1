@@ -413,9 +413,29 @@ Microsoft Excel - The software used to make the testing spreadsheet.
 
 The strategy for testing was to cover the areas of responsivity testing, features testing, accessibility testing, performance testing, and validator testing. 
 
-Click for full testing results:
+<details>
+<summary>Full testing results</summary>
 
-[xlsx file](assets/testing/Testing%20MP1.xlsx)
+![responsivitytesting](../docs/imgs/responsivitytesting.png)
+
+![featurestesting](../docs/imgs/featurestesting.png)
+
+![accessibilitytesting](../docs/imgs/accessabilitytesting.png)
+
+![performancetesting](../docs/imgs/performancetesting.png)
+
+![validatortesting](../docs/imgs/validatortesting.png)
+
+</details>
+
+<details>
+<summary>Download testing results:</summary>
+
+[xlsx file](../docs/testing/TestingMP1.xlsx)
+
+</details>
+
+
 
 There are two fails in the features section (test no's F3 and F10). These are both due to data storing from forms being out of scope for this project.
 
