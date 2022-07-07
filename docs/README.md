@@ -2,18 +2,18 @@
 # Tanya Allen
 ## The Women's Coaching Collective
 
-![homemockup](assets/images/Homemockup.jpg)
+![homemockup](../docs/imgs/Homemockup.jpg)
 
 <details>
 <summary>Other page mockups</summary>
 
-![aboutmockup](assets/images/aboutmockup.jpg)
+![aboutmockup](../docs/imgs/aboutmockup.jpg)
 
 
-![contactmockup](assets/images/contactmockup.jpg)
+![contactmockup](../docs/imgs/contactmockup.jpg)
 
 
-![successmockup](assets/images/successmockup.jpg)
+![successmockup](../docs/imgs/successmockup.jpg)
 </details>
 
 [Click for live site](https://tanyaelizabeth13.github.io/Milestoneproject1/)
@@ -160,19 +160,19 @@ Above the footer the contact page will include an embedded google map showing th
 #### Wireframes
 
 Home page
-![wireframehome](/assets/images/Home.png)  
+![wireframehome](../docs/imgs/Home.png)  
 
 About page
-![wireframeabout](/assets/images/About.png)
+![wireframeabout](../docs/imgs/About.png)
 
 Contact page
-![wireframecontact](/assets/images/Contact.png)
+![wireframecontact](../docs/imgs/Contact.png)
 
 #### Colours
 
 The general colour scheme for the site is delicate, feminine, pastel tones.
 
-![colourscheme](/assets/images/hex-colours.png)
+![colourscheme](../docs/imgs/hex-colours.png)
 
 F3E3E3 and FEE4D7 are used as background colours across all pages. The first for the headers and footer, and the latter for the main body of the site. 
 
@@ -191,45 +191,45 @@ All fonts are imported from Google fonts.
 
 Raleway is used for the main logo.
 
-![ralewayexample](/assets/images/raleway-font.png)
+![ralewayexample](../docs/imgs/raleway-font.png)
 
 Sacramento is used for the sub-logo.
 
-![sacramentoexample](/assets/images/sacramento-font.png)
+![sacramentoexample](../docs/imgs/sacramento-font.png)
 
 Joan is used for all other text throughout the site.
 
-![joanexample](/assets/images/joan-font.png)
+![joanexample](../docs/imgs/joan-font.png)
 
 
 #### Imagery
 
 The site logo was created using basic CSS. This was a design choice to keep it nice and simple, and to not make the pages look too busy with all the other images and colours being used. 
 
-![sitelogo](/assets/images/logo.jpg)
+![sitelogo](../docs/imgs/logo.jpg)
 
 All images from the site are sourced form Pexels.com, a free to use stock photo site. 
 The three main site pages all contain a large hero image. 
 
-![heroimages](/assets/images/imagery1.png)
+![heroimages](../docs/imgs/imagery1.png)
 
 These have been cropped and reuploaded to look better on smaller devices.
 
-![heroimagessmaller](/assets/images/imagery2.png)
+![heroimagessmaller](../docs/imgs/imagery2.png)
 
 On all four pages of the site there is an image with a motivational message. 
 
-![contentimages](/assets/images/imagery3.png)
+![contentimages](../docs/imgs/imagery3.png)
 
 All images fit with the theme of the site and help to promote the brand of the company. They also fit well together creating a standarised theme across the site. 
 
 The site icon in the browser tab is taken from Icons8 and is of a small female logo. Fitting with the site theme.
 
-![brownericon](/assets/images/sitetab.jpg) 
+![browsericon](../docs/imgs/sitetab.jpg) 
 
 Social media icons are sourced from Icons 8 also, they are part of the same icon pack, so they all fit together.
 
-![socialicons](/assets/images/socialicons.jpg)
+![socialicons](../docs/imgs/socialicons.jpg)
 
 
 ---
@@ -286,65 +286,65 @@ Social media icons in the page footer do not take the user to real pages as this
 
 At the top of all pages there is an alert bar suggesting the user sign up to an email list. It contains a ‘click here’ button that opens the email sign-up modal. 
 
-![emailalert](assets/images/emailalert.jpg)
+![emailalert](../docs/imgs/emailalert.jpg)
 
 **Email modal**
 
 An email sign up modal pops up after clicking the ‘click here’ button. This allows the user to submit their details to join the company mailing list. If they change their mind, there is an exit button on the top right of the modal. 
 
-![emailmodal](assets/images/emailmodal.jpg)
+![emailmodal](../docs/imgs/emailmodal.jpg)
 
 **Header**
 
 Each page has the same header that stays at the top of the page (non-sticky). It contains the sites main logo, sub logo, and the main navigation bar. 
 
-![largeheader](assets/images/header.jpg)
+![largeheader](../docs/imgs/header.jpg)
 
 On medium screens the sub logo disappears to make the header look less crowded.
 
-![mediumheader](assets/images/header2.jpg)
+![mediumheader](../docs/imgs/header2.jpg)
 
 **Hamburger nav menu**
 
 On small screens the navigation bar collapses into a hamburger menu making it look cleaner. 
 
-![hamburgermenu](assets/images/hamburgerheader.jpg)
+![hamburgermenu](../docs/imgs/hamburgerheader.jpg)
 
 **Contact form**
 
 The contact page contains a simple form. It consists of full name, email address, phone number, and post code. This is enough information for the company to get in touch with the user at a later date. 
 
-![contactform](assets/images/contactform.jpg)
+![contactform](../docs/imgs/contactform.jpg)
 
 **Success page**
 
 Submitting the form of the contact page take users to a success page saying thank you and letting the user know that the form has been submitted. This is a full page with the same header and footer as the other pages so users can easily navigate through the site.
 
-![successpage](assets/images/thankyou.jpg)
+![successpage](../docs/imgs/thankyou.jpg)
 
 **Embedded map**
 
 The contact page also contains an embedded Google map. As standard with Google embedded maps, the map is interactive and is the user clicks the ‘view larger map’ button it will take them to either the desktop version of the full map, or the Google maps apps. 
 
-![googlemap](assets/images/googlemap.jpg)
+![googlemap](../docs/imgs/googlemap.jpg)
 
 **Back to top button**
 
 All pages contain a ‘Back to top’ button above the footer, so users can quickly return to the top of the site without scrolling. This shows on all screen sizes. 
 
-![backtotopbutton](assets/images/backtotopbtn.jpg)
+![backtotopbutton](../docs/imgs/backtotopbtn.jpg)
 
 **Footer**
 
 All pages have the same footer that stays at the bottom of the page (non-sticky). It contains a quick links section for users to quickly navigate to other parts of the site, the company contact details, and icons with links to the company’s social media sites. 
 
-![footer](assets/images/footer.jpg)
+![footer](../docs/imgs/footer.jpg)
 
 **Social media links**
 
 Within the footer on each page there are four icons linking to the company’s social media accounts. These are: Facebook, Instagram, Twitter, and Tiktok. 
 
-![socialicons](assets/images/socialfooter.jpg)
+![socialicons](../docs/imgs/socialfooter.jpg)
 
 #### Future
 
