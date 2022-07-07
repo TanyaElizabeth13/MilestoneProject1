@@ -346,6 +346,12 @@ Within the footer on each page there are four icons linking to the company’s s
 
 ![socialicons](../docs/imgs/socialfooter.jpg)
 
+**Custom 404 page**
+
+If the user navigates incorrectly they will be taken to a customer error 404 page. 
+
+![error404](../docs/imgs/404page.jpg)
+
 #### Future
 
 As this project is focused on HTML 5 and CSS 3, it leaves a lot of room for possible future features that can be implemented with more advanced technologies. Also, the scope of this project was only to cover three pages, so in a real life project a lot more features would likely be added to a site of this type. 
