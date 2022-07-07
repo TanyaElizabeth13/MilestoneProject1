@@ -1,219 +1,234 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- Bootstrap style sheet -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
-    
-    <!--Icons-->
-    <link rel="icon" href="assets/images/icons8-female-24.png">
 
-    <link rel="stylesheet" href="assets/css/style.css">
-    
-    <title>TWCC - The Women's Coaching Collective</title>
-  </head>
-  <body>
-    <!--Back to top tag-->
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Bootstrap style sheet -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+    integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  <!--Icons-->
+  <link rel="icon" href="assets/images/icons8-female-24.png">
+  <!--Stylesheet-->
+  <link rel="stylesheet" href="assets/css/style.css">
+  <!--Title-->
+  <title>TWCC - The Women's Coaching Collective</title>
+</head>
+
+<body>
+  <!--Back to top tag-->
   <a id="top"></a>
-    <header>
-      <!--Mailing list alert-->
-      <div class="container-fluid text-center">
-        <div class="row">
-          <div class="col alert alert-custom" role="alert">
-          Join our mailing list today! 
-          <button type="button" class="btn btn-light" data-toggle="modal" data-target="#emailmodal">
-            Click here
+  <!--Mailing list alert start-->
+  <div class="container-fluid text-center">
+    <div class="row">
+      <div class="col alert alert-custom" role="alert">
+        Join our mailing list today!
+        <button type="button" class="btn btn-light" data-toggle="modal" data-target="#emailmodal">
+          Click here
+        </button>
+      </div>
+    </div>
+  </div>
+  <!--Mailing list alert end-->
+  <!--Mailing list modal start-->
+  <div class="modal" tabindex="-1" role="dialog" id="emailmodal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 class="modal-title">Join our mailing list today!</h3>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
           </button>
-          </div>
         </div>
-      </div>
-      <!--Mailing list alert end-->
-      <!--Mailing list modal-->
-      <div class="modal" tabindex="-1" role="dialog" id="emailmodal">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h3 class="modal-title">Join our mailing list today!</h3>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
+        <div class="modal-body">
+          <p>Get email alerts on what we're doing here at TWCC</p>
+          <form action="https://formdump.codeinstitute.net/" method="post">
+            <div class="form-group">
+              <label for="email" class="visuallyhidden">Email</label>
+              <input type="email" class="form-control" id="email" placeholder="Please enter your email address"
+                required />
             </div>
-            <div class="modal-body">
-              <p>Get email alerts on what we're doing here at TWCC</p>
-              <form action="https://formdump.codeinstitute.net/" method="post">
-                <div class="form-group">
-                  <label for="email" class="visuallyhidden">Email</label>
-                  <input type="email" class="form-control" id="email" placeholder="Please enter your email address" required/>
-                </div>
-              </form>
-            </div>
-            <div class="modal-footer">
-              <button type="submit" class="btn btn-secondary" data-dismiss="modal">Submit</button>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!--Mailing list modal end-->
-      <div class="container-fluid">
-        <div class="row bg-pink-blush">
-            <!--Logos-->
-            <a href="index.html" class="col-6">
-              <h1 id="mainlogo">
-                TWCC
-              </h1>
-              <h2 id="sublogo" class="d-none d-lg-block">
-                The Women's Coaching Collective
-              </h2>
-            </a>
-            <!--Logos end-->
-
-            <!--Nav start-->
-            <nav class="navbar navbar-expand-sm col-6">
-              <a class="navbar-brand"></a>
-              <button class="navbar-toggler navbar-toggler-icon" type="button" data-toggle="collapse" data-target="#navbarContent"
-               aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle Menu">
-              </button>
-              <div class="collapse navbar-collapse" id="navbarContent">
-              <ul class="navbar-nav ml-auto" id="navigation">
-                <li>
-                  <a href="index.html" class="nav-item">Home</a>
-                </li>
-                <li>
-                  <a href="about.html" class="nav-item">About</a>
-               </li>
-                <li>
-                  <a href="contact.html" class="nav-item active">Contact</a>
-                </li>
-              </ul>  
-              </div>
-            </nav>
-            <!--Nav end-->
-        </div>
-      </div>
-    </header>
-    <!--Header end-->
-
-
-    <!--Main page-->
-    <section class="container-fluid" id="contact-hero-container">
-      <div class="row">
-        <div class="col">
-          <h2 class="herotext">Helping women achieve business goals since 1993</h2>
-        </div>
-      </div>
-    </section>
-      <section class="container-fluid">
-        <div class="row bg-peach">
-          <h3 class="col bodytext text-center">Contact us</h3>
-        </div>
-        <div class="row bg-peach">
-          <p class="col bodytext text-center">Enter your details and an advisor will be in touch ASAP</p>
-        </div>
-        <div class="row bg-peach">
-          <form class="col-lg-8 col-md-12 contactform" action="success.html" method="get">
-            <label for="fullname">Full name</label>
-            <input type="text" name="name" id="fullname" class="form-control" placeholder="Enter your full name" required>
-            <label for="emailaddress">Email</label>
-            <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Enter your email" required>
-            <label for="phonenumber">Telephone</label>
-            <input type="tel" name="phone" id="phonenumber" class="form-control" placeholder="Enter your phone number">
-            <label for="postcode">Post code</label>
-            <input type="text" name="postcode" id="postcode" class="form-control" placeholder="Enter your post code" required>
-            <button type="submit" class="btn btn-secondary form-button">Submit</button>
           </form>
-          <img src="assets/images/contact.ifnotnow.jpg" alt="If not now then when written over a grey wall" class="col-lg-4 col-md-12 img-fluid bodyimage">
         </div>
-        <div class="row bg-peach">
-          <p class="col bodytext text-center">“I have had the pleasure of working with my coach for the last 12 months and the progress I have made during this time has been incredible. I came to the collective with nothing but a business idea. Within 6 months I had a fully operational and most importantly profitable business. The tips and tricks I learned from my coach have crossed over into my personal life, and I am a much more positive and confident person that I was a year ago” <strong>Iria Swanhild, Owner and operator, Earthlyveg co</strong></p>
-        </div>
-        <div class="row bg-peach" id="map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2290.047414879004!2d-1.6167468661725035!3d54.97226765928781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70b58a50efd3%3A0x57adbe26c13daee!2s23%20Nun%20St%2C%20Newcastle%20upon%20Tyne%20NE1%205AG!5e0!3m2!1sen!2suk!4v1656089475812!5m2!1sen!2suk" width="1000" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="col text-center"></iframe>
-        </div>
-     </section>
-     <!--Back to top button-->
-    <section class="container-fluid">
-      <div class="row bg-peach">
-        <div class="col text-center">
-      <a class="btn btn-dark text-center" href="#top">Back to top ^</a>
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-secondary" data-dismiss="modal">Submit</button>
         </div>
       </div>
-    </section>
-    <!--Back to top button end-->
-    <!--Main page end-->
-
-
-    <!--Footer-->
-    <footer>
-      <div class="container-fluid">
-        <div class="row bg-pink-blush">
-          <!--Navigation links-->
-          <div class="col-lg-4 d-none d-lg-block text-center">
-            <h4>Quick links</h4>
-            <ul id="footernav">
+    </div>
+  </div>
+  <!--Mailing list modal end-->
+  <!--Header start-->
+  <header>
+    <div class="container-fluid">
+      <div class="row bg-pink-blush">
+        <!--Logos-->
+        <a href="index.html" class="col-6">
+          <h1 id="mainlogo">
+            TWCC
+          </h1>
+          <h2 id="sublogo" class="d-none d-lg-block">
+            The Women's Coaching Collective
+          </h2>
+        </a>
+        <!--Logos end-->
+        <!--Nav start-->
+        <nav class="navbar navbar-expand-sm col-6">
+          <a class="navbar-brand"></a>
+          <button class="navbar-toggler navbar-toggler-icon" type="button" data-toggle="collapse"
+            data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle Menu">
+          </button>
+          <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav ml-auto" id="navigation">
               <li>
-                <a href="index.html">Home</a>
+                <a href="index.html" class="nav-item">Home</a>
               </li>
               <li>
-                <a href="about.html">About</a>
-             </li>
+                <a href="about.html" class="nav-item">About</a>
+              </li>
               <li>
-                <a href="contact.html">Contact</a>
+                <a href="contact.html" class="nav-item active">Contact</a>
               </li>
             </ul>
           </div>
-          <!--Contact details-->
-          <div class="col-lg-4 col-md-6 text-center text-wrap">
-            <h4>Contact</h4>
-            <p>
-               TWCC <br>
-               23a Nun Street <br>
-               Newcastle Upon Tyne<br>
-               NE1 5AG<br>
-               0191 1234567
-            </p>
-          </div>
-          <!--Social media links-->
-          <div class="col-lg-4 col-md-6 text-center text-wrap">
-            <h4>Social media</h4>
-            <ul id="socialnav">
-              <li>
-                <a target="_blank" href="https://www.facebook.com/">
-                  <img src="assets/images/icons8-facebook-64.png"  alt="facebook link">
-                </a> 
-              </li>
-              <li>
-                <a target="_blank" href="https://www.instagram.com/" >
-                  <img src="assets/images/icons8-instagram-64.png"  alt="instagram link">
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://twitter.com/?lang=en">
-                  <img src="assets/images/icons8-twitter-64.png"  alt="twitter">
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.tiktok.com/en/">
-                  <img src="assets/images/icons8-tiktok-64.png" alt="tiktok link">
-                </a> 
-              </li>
-            </ul>
-          </div>
+        </nav>
+        <!--Nav end-->
+      </div>
+    </div>
+  </header>
+  <!--Header end-->
+  <!--Main page start-->
+  <section class="container-fluid" id="contact-hero-container">
+    <div class="row">
+      <div class="col">
+        <h2 class="herotext">Helping women achieve business goals since 1993</h2>
+      </div>
+    </div>
+  </section>
+  <section class="container-fluid">
+    <div class="row bg-peach">
+      <h3 class="col bodytext text-center">Contact us</h3>
+    </div>
+    <div class="row bg-peach">
+      <p class="col bodytext text-center">Enter your details and an advisor will be in touch ASAP</p>
+    </div>
+    <div class="row bg-peach">
+      <form class="col-lg-8 col-md-12 contactform" action="success.html" method="get">
+        <label for="fullname">Full name</label>
+        <input type="text" name="name" id="fullname" class="form-control" placeholder="Enter your full name" required>
+        <label for="emailaddress">Email</label>
+        <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Enter your email" required>
+        <label for="phonenumber">Telephone</label>
+        <input type="tel" name="phone" id="phonenumber" class="form-control" placeholder="Enter your phone number">
+        <label for="postcode">Post code</label>
+        <input type="text" name="postcode" id="postcode" class="form-control" placeholder="Enter your post code"
+          required>
+        <button type="submit" class="btn btn-secondary form-button">Submit</button>
+      </form>
+      <img src="assets/images/contact.ifnotnow.jpg" alt="If not now then when written over a grey wall"
+        class="col-lg-4 col-md-12 img-fluid bodyimage">
+    </div>
+    <div class="row bg-peach">
+      <p class="col bodytext text-center">“I have had the pleasure of working with my coach for the last 12 months and
+        the progress I have made during this time has been incredible. I came to the collective with nothing but a
+        business idea. Within 6 months I had a fully operational and most importantly profitable business. The tips and
+        tricks I learned from my coach have crossed over into my personal life, and I am a much more positive and
+        confident person that I was a year ago” <strong>Iria Swanhild, Owner and operator, Earthlyveg co</strong></p>
+    </div>
+    <div class="row bg-peach" id="map">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2290.047414879004!2d-1.6167468661725035!3d54.97226765928781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70b58a50efd3%3A0x57adbe26c13daee!2s23%20Nun%20St%2C%20Newcastle%20upon%20Tyne%20NE1%205AG!5e0!3m2!1sen!2suk!4v1656089475812!5m2!1sen!2suk"
+        width="1000" height="600" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade" class="col text-center"></iframe>
+    </div>
+  </section>
+  <!--Back to top button start-->
+  <section class="container-fluid">
+    <div class="row bg-peach">
+      <div class="col text-center">
+        <a class="btn btn-dark text-center" href="#top">Back to top ^</a>
+      </div>
+    </div>
+  </section>
+  <!--Back to top button end-->
+  <!--Main page end-->
+  <!--Footer start-->
+  <footer>
+    <div class="container-fluid">
+      <div class="row bg-pink-blush">
+        <!--Navigation links start-->
+        <div class="col-lg-4 d-none d-lg-block text-center">
+          <h4>Quick links</h4>
+          <ul id="footernav">
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>
+              <a href="about.html">About</a>
+            </li>
+            <li>
+              <a href="contact.html">Contact</a>
+            </li>
+          </ul>
         </div>
-        <div class="bg-pink-blush row">
-          <div class="col">
-            <p class="text-center">© Copyright The Women's Coaching Collective LTD</p>
-          </div>
+        <!--Navigation links end-->
+        <!--Contact details start-->
+        <div class="col-lg-4 col-md-6 text-center text-wrap">
+          <h4>Contact</h4>
+          <p>
+            TWCC <br>
+            23a Nun Street <br>
+            Newcastle Upon Tyne<br>
+            NE1 5AG<br>
+            0191 1234567
+          </p>
+        </div>
+        <!--Contact details end-->
+        <!--Social media links start-->
+        <div class="col-lg-4 col-md-6 text-center text-wrap">
+          <h4>Social media</h4>
+          <ul id="socialnav">
+            <li>
+              <a target="_blank" href="https://www.facebook.com/">
+                <img src="assets/images/icons8-facebook-64.png" alt="facebook link">
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="https://www.instagram.com/">
+                <img src="assets/images/icons8-instagram-64.png" alt="instagram link">
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="https://twitter.com/?lang=en">
+                <img src="assets/images/icons8-twitter-64.png" alt="twitter">
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="https://www.tiktok.com/en/">
+                <img src="assets/images/icons8-tiktok-64.png" alt="tiktok link">
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
-    </footer>
-   <!--Footer end-->
+      <!--Social media links end-->
+      <!--Copyright start-->
+      <div class="bg-pink-blush row">
+        <div class="col">
+          <p class="text-center">© Copyright The Women's Coaching Collective LTD</p>
+        </div>
+      </div>
+      <!--Copyright end-->
+    </div>
+  </footer>
+  <!--Footer end-->
+  <!-- Bootstrap Javascript and JQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous">
+  </script>
+</body>
 
-
-    <!-- Bootstrap Javascript and JQuery -->
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
-  </body>
 </html>
