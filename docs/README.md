@@ -451,6 +451,12 @@ HTML validator is also still showing 1 warning on all pages (test no's V2, V4, a
 
 This project was initially created in Github using the Code Institute’s [full template](https://github.com/Code-Institute-Org/gitpod-full-template) 
 
+Version control was accomplished through the use of Github by pushing to the repository using the following:
+
+- Git add was used to stage files before committing. 
+- Git commit -m was used to add commit messages.
+- Git push was used to push code to the repo. 
+
 The project was then deployed using Github Pages by doing the following steps:
 
 -	Open [repository](https://github.com/TanyaElizabeth13/Milestoneproject1)
